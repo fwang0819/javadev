@@ -9,6 +9,7 @@ public class home_work {
 
 	double bVal= inputval.getDouble();
 	System.out.println("bVal:"+bVal);
+	
 	}
 	
 
