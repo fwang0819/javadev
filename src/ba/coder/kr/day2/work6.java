@@ -2,9 +2,7 @@ package ba.coder.kr.day2;
 
 public class work6 {
 	
-	public static double sum (double a,double b,double c,double d,double e);
-	 a+b+c+d+e
-	return sum;
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
